@@ -1,0 +1,197 @@
+Month,Year,Department,TotalBeds,OccupiedBeds,OccupancyRate_Pct
+Jan,2021,Cardiology,40,39,97.5
+Jan,2021,Orthopedics,35,18,51.4
+Jan,2021,General Medicine,60,60,100.0
+Jan,2021,Pediatrics,30,20,66.7
+Jan,2021,Neurology,25,22,88.0
+Jan,2021,Emergency,20,17,85.0
+Jan,2021,Oncology,20,17,85.0
+Feb,2021,Cardiology,40,20,50.0
+Feb,2021,Orthopedics,35,23,65.7
+Feb,2021,General Medicine,60,57,95.0
+Feb,2021,Pediatrics,30,24,80.0
+Feb,2021,Neurology,25,15,60.0
+Feb,2021,Emergency,20,10,50.0
+Feb,2021,Oncology,20,19,95.0
+Mar,2021,Cardiology,40,36,90.0
+Mar,2021,Orthopedics,35,33,94.3
+Mar,2021,General Medicine,60,52,86.7
+Mar,2021,Pediatrics,30,22,73.3
+Mar,2021,Neurology,25,21,84.0
+Mar,2021,Emergency,20,12,60.0
+Mar,2021,Oncology,20,20,100.0
+Apr,2021,Cardiology,40,21,52.5
+Apr,2021,Orthopedics,35,28,80.0
+Apr,2021,General Medicine,60,37,61.7
+Apr,2021,Pediatrics,30,15,50.0
+Apr,2021,Neurology,25,14,56.0
+Apr,2021,Emergency,20,11,55.0
+Apr,2021,Oncology,20,14,70.0
+May,2021,Cardiology,40,32,80.0
+May,2021,Orthopedics,35,28,80.0
+May,2021,General Medicine,60,51,85.0
+May,2021,Pediatrics,30,27,90.0
+May,2021,Neurology,25,18,72.0
+May,2021,Emergency,20,19,95.0
+May,2021,Oncology,20,13,65.0
+Jun,2021,Cardiology,40,36,90.0
+Jun,2021,Orthopedics,35,17,48.6
+Jun,2021,General Medicine,60,53,88.3
+Jun,2021,Pediatrics,30,17,56.7
+Jun,2021,Neurology,25,13,52.0
+Jun,2021,Emergency,20,18,90.0
+Jun,2021,Oncology,20,14,70.0
+Jul,2021,Cardiology,40,37,92.5
+Jul,2021,Orthopedics,35,35,100.0
+Jul,2021,General Medicine,60,41,68.3
+Jul,2021,Pediatrics,30,26,86.7
+Jul,2021,Neurology,25,25,100.0
+Jul,2021,Emergency,20,14,70.0
+Jul,2021,Oncology,20,13,65.0
+Aug,2021,Cardiology,40,39,97.5
+Aug,2021,Orthopedics,35,23,65.7
+Aug,2021,General Medicine,60,44,73.3
+Aug,2021,Pediatrics,30,27,90.0
+Aug,2021,Neurology,25,21,84.0
+Aug,2021,Emergency,20,10,50.0
+Aug,2021,Oncology,20,14,70.0
+Sep,2021,Cardiology,40,25,62.5
+Sep,2021,Orthopedics,35,30,85.7
+Sep,2021,General Medicine,60,46,76.7
+Sep,2021,Pediatrics,30,18,60.0
+Sep,2021,Neurology,25,20,80.0
+Sep,2021,Emergency,20,11,55.0
+Sep,2021,Oncology,20,18,90.0
+Oct,2021,Cardiology,40,29,72.5
+Oct,2021,Orthopedics,35,27,77.1
+Oct,2021,General Medicine,60,60,100.0
+Oct,2021,Pediatrics,30,18,60.0
+Oct,2021,Neurology,25,24,96.0
+Oct,2021,Emergency,20,18,90.0
+Oct,2021,Oncology,20,14,70.0
+Nov,2021,Cardiology,40,37,92.5
+Nov,2021,Orthopedics,35,35,100.0
+Nov,2021,General Medicine,60,38,63.3
+Nov,2021,Pediatrics,30,29,96.7
+Nov,2021,Neurology,25,18,72.0
+Nov,2021,Emergency,20,19,95.0
+Nov,2021,Oncology,20,17,85.0
+Dec,2021,Cardiology,40,27,67.5
+Dec,2021,Orthopedics,35,27,77.1
+Dec,2021,General Medicine,60,60,100.0
+Dec,2021,Pediatrics,30,29,96.7
+Dec,2021,Neurology,25,22,88.0
+Dec,2021,Emergency,20,17,85.0
+Dec,2021,Oncology,20,19,95.0
+Jan,2022,Cardiology,40,20,50.0
+Jan,2022,Orthopedics,35,32,91.4
+Jan,2022,General Medicine,60,33,55.0
+Jan,2022,Pediatrics,30,23,76.7
+Jan,2022,Neurology,25,13,52.0
+Jan,2022,Emergency,20,16,80.0
+Jan,2022,Oncology,20,20,100.0
+Feb,2022,Cardiology,40,27,67.5
+Feb,2022,Orthopedics,35,24,68.6
+Feb,2022,General Medicine,60,55,91.7
+Feb,2022,Pediatrics,30,25,83.3
+Feb,2022,Neurology,25,18,72.0
+Feb,2022,Emergency,20,15,75.0
+Feb,2022,Oncology,20,18,90.0
+Mar,2022,Cardiology,40,37,92.5
+Mar,2022,Orthopedics,35,17,48.6
+Mar,2022,General Medicine,60,52,86.7
+Mar,2022,Pediatrics,30,23,76.7
+Mar,2022,Neurology,25,15,60.0
+Mar,2022,Emergency,20,14,70.0
+Mar,2022,Oncology,20,11,55.0
+Apr,2022,Cardiology,40,32,80.0
+Apr,2022,Orthopedics,35,27,77.1
+Apr,2022,General Medicine,60,32,53.3
+Apr,2022,Pediatrics,30,20,66.7
+Apr,2022,Neurology,25,19,76.0
+Apr,2022,Emergency,20,15,75.0
+Apr,2022,Oncology,20,15,75.0
+May,2022,Cardiology,40,26,65.0
+May,2022,Orthopedics,35,35,100.0
+May,2022,General Medicine,60,38,63.3
+May,2022,Pediatrics,30,20,66.7
+May,2022,Neurology,25,23,92.0
+May,2022,Emergency,20,20,100.0
+May,2022,Oncology,20,13,65.0
+Jun,2022,Cardiology,40,35,87.5
+Jun,2022,Orthopedics,35,23,65.7
+Jun,2022,General Medicine,60,37,61.7
+Jun,2022,Pediatrics,30,22,73.3
+Jun,2022,Neurology,25,25,100.0
+Jun,2022,Emergency,20,14,70.0
+Jun,2022,Oncology,20,13,65.0
+Jul,2022,Cardiology,40,27,67.5
+Jul,2022,Orthopedics,35,23,65.7
+Jul,2022,General Medicine,60,56,93.3
+Jul,2022,Pediatrics,30,22,73.3
+Jul,2022,Neurology,25,25,100.0
+Jul,2022,Emergency,20,19,95.0
+Jul,2022,Oncology,20,15,75.0
+Aug,2022,Cardiology,40,24,60.0
+Aug,2022,Orthopedics,35,20,57.1
+Aug,2022,General Medicine,60,33,55.0
+Aug,2022,Pediatrics,30,17,56.7
+Aug,2022,Neurology,25,22,88.0
+Aug,2022,Emergency,20,20,100.0
+Aug,2022,Oncology,20,17,85.0
+Sep,2022,Cardiology,40,39,97.5
+Sep,2022,Orthopedics,35,17,48.6
+Sep,2022,General Medicine,60,54,90.0
+Sep,2022,Pediatrics,30,16,53.3
+Sep,2022,Neurology,25,25,100.0
+Sep,2022,Emergency,20,17,85.0
+Sep,2022,Oncology,20,15,75.0
+Oct,2022,Cardiology,40,39,97.5
+Oct,2022,Orthopedics,35,27,77.1
+Oct,2022,General Medicine,60,45,75.0
+Oct,2022,Pediatrics,30,23,76.7
+Oct,2022,Neurology,25,19,76.0
+Oct,2022,Emergency,20,12,60.0
+Oct,2022,Oncology,20,18,90.0
+Nov,2022,Cardiology,40,28,70.0
+Nov,2022,Orthopedics,35,29,82.9
+Nov,2022,General Medicine,60,37,61.7
+Nov,2022,Pediatrics,30,19,63.3
+Nov,2022,Neurology,25,12,48.0
+Nov,2022,Emergency,20,18,90.0
+Nov,2022,Oncology,20,16,80.0
+Dec,2022,Cardiology,40,35,87.5
+Dec,2022,Orthopedics,35,34,97.1
+Dec,2022,General Medicine,60,31,51.7
+Dec,2022,Pediatrics,30,26,86.7
+Dec,2022,Neurology,25,18,72.0
+Dec,2022,Emergency,20,20,100.0
+Dec,2022,Oncology,20,12,60.0
+Jan,2023,Cardiology,40,34,85.0
+Jan,2023,Orthopedics,35,20,57.1
+Jan,2023,General Medicine,60,52,86.7
+Jan,2023,Pediatrics,30,29,96.7
+Jan,2023,Neurology,25,17,68.0
+Jan,2023,Emergency,20,10,50.0
+Jan,2023,Oncology,20,10,50.0
+Feb,2023,Cardiology,40,26,65.0
+Feb,2023,Orthopedics,35,29,82.9
+Feb,2023,General Medicine,60,48,80.0
+Feb,2023,Pediatrics,30,18,60.0
+Feb,2023,Neurology,25,17,68.0
+Feb,2023,Emergency,20,15,75.0
+Feb,2023,Oncology,20,19,95.0
+Mar,2023,Cardiology,40,28,70.0
+Mar,2023,Orthopedics,35,22,62.9
+Mar,2023,General Medicine,60,47,78.3
+Mar,2023,Pediatrics,30,23,76.7
+Mar,2023,Neurology,25,15,60.0
+Mar,2023,Emergency,20,14,70.0
+Mar,2023,Oncology,20,17,85.0
+Apr,2023,Cardiology,40,39,97.5
+Apr,2023,Orthopedics,35,27,77.1
+Apr,2023,General Medicine,60,41,68.3
+Apr,2023,Pediatrics,30,20,66.7
+Apr,2023,Neurology,25,19,76.0
+Apr,2023,Emergency,20,16,80.0
+Apr,2023,Oncology,20,13,65.0
