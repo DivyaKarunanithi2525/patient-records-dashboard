@@ -1,0 +1,501 @@
+PatientID,PatientName,Age,Gender,Department,Doctor,AdmissionDate,DischargeDate,LengthOfStay_Days,Status,InsuranceType,AdmissionMonth,AdmissionYear
+PID0001,Rahul Reddy,18,Male,Emergency,Dr. Nair,2021-09-08,,,Admitted,Private,September,2021
+PID0002,Priya Kumar,82,Female,Cardiology,Dr. Singh,2021-04-06,2021-04-13,7,Discharged,Government,April,2021
+PID0003,Kavitha Rao,5,Female,Oncology,Dr. Iyer,2022-08-27,,,Under Observation,Government,August,2022
+PID0004,Latha Reddy,48,Female,Cardiology,Dr. Sharma,2021-06-09,,,ICU,Corporate,June,2021
+PID0005,Ravi Nair,63,Male,Neurology,Dr. Sharma,2022-09-11,,,Under Observation,Corporate,September,2022
+PID0006,Deepak Reddy,51,Male,Neurology,Dr. Patel,2023-04-30,2023-05-21,21,Discharged,Private,April,2023
+PID0007,Suresh Reddy,53,Male,General Medicine,Dr. Kumar,2021-03-23,,,Under Observation,Self-Pay,March,2021
+PID0008,Ravi Nair,14,Male,Neurology,Dr. Nair,2021-08-03,2021-08-12,9,Discharged,Government,August,2021
+PID0009,Vikram Rao,76,Male,Orthopedics,Dr. Nair,2022-01-24,,,ICU,Self-Pay,January,2022
+PID0010,Suresh Kumar,13,Male,Orthopedics,Dr. Singh,2023-04-05,2023-04-16,11,Discharged,Self-Pay,April,2023
+PID0011,Kiran Iyer,22,Male,Orthopedics,Dr. Nair,2022-10-21,,,Admitted,Self-Pay,October,2022
+PID0012,Nisha Iyer,22,Female,Neurology,Dr. Kumar,2022-01-06,,,ICU,Private,January,2022
+PID0013,Arjun Patel,59,Male,Neurology,Dr. Sharma,2022-10-05,2022-10-11,6,Discharged,Corporate,October,2022
+PID0014,Nisha Rao,6,Female,Emergency,Dr. Nair,2022-06-26,,,ICU,Private,June,2022
+PID0015,Latha Singh,5,Female,Emergency,Dr. Nair,2021-10-28,,,Admitted,Self-Pay,October,2021
+PID0016,Deepak Singh,69,Male,Neurology,Dr. Patel,2022-10-03,,,Under Observation,Government,October,2022
+PID0017,Sunita Kumar,19,Female,General Medicine,Dr. Iyer,2022-09-06,2022-09-17,11,Discharged,Self-Pay,September,2022
+PID0018,Rahul Sharma,67,Male,Oncology,Dr. Sharma,2022-08-04,,,Admitted,Government,August,2022
+PID0019,Kiran Patel,59,Male,Orthopedics,Dr. Singh,2021-09-29,,,Under Observation,Government,September,2021
+PID0020,Rekha Nair,36,Female,Orthopedics,Dr. Sharma,2022-03-25,2022-04-11,17,Discharged,Self-Pay,March,2022
+PID0021,Nikhil Sharma,85,Male,Cardiology,Dr. Patel,2022-08-26,,,Admitted,Private,August,2022
+PID0022,Ravi Singh,67,Male,Orthopedics,Dr. Singh,2022-06-11,2022-06-19,8,Discharged,Government,June,2022
+PID0023,Kavitha Rao,17,Female,Emergency,Dr. Kumar,2023-04-07,,,Admitted,Self-Pay,April,2023
+PID0024,Rekha Rao,17,Female,Cardiology,Dr. Kumar,2023-01-17,2023-01-19,2,Discharged,Self-Pay,January,2023
+PID0025,Suresh Sharma,59,Male,Orthopedics,Dr. Reddy,2021-07-14,2021-08-01,18,Discharged,Corporate,July,2021
+PID0026,Arjun Rao,74,Male,Oncology,Dr. Sharma,2023-04-08,,,Admitted,Private,April,2023
+PID0027,Vikram Iyer,56,Male,Cardiology,Dr. Patel,2022-05-13,2022-05-29,16,Discharged,Corporate,May,2022
+PID0028,Anand Reddy,76,Male,Emergency,Dr. Nair,2023-03-14,2023-03-29,15,Discharged,Corporate,March,2023
+PID0029,Suresh Reddy,74,Male,Cardiology,Dr. Nair,2021-08-11,2021-08-13,2,Discharged,Self-Pay,August,2021
+PID0030,Rahul Rao,70,Male,Cardiology,Dr. Iyer,2022-05-30,,,Admitted,Government,May,2022
+PID0031,Nikhil Singh,77,Male,Orthopedics,Dr. Singh,2022-11-23,2022-12-01,8,Discharged,Private,November,2022
+PID0032,Anand Nair,45,Male,Orthopedics,Dr. Reddy,2021-09-25,2021-10-02,7,Discharged,Corporate,September,2021
+PID0033,Mohan Rao,84,Male,Neurology,Dr. Sharma,2021-11-20,,,Admitted,Private,November,2021
+PID0034,Deepak Reddy,36,Male,General Medicine,Dr. Reddy,2021-05-16,,,Under Observation,Government,May,2021
+PID0035,Divya Reddy,75,Female,General Medicine,Dr. Nair,2022-09-19,2022-10-10,21,Discharged,Private,September,2022
+PID0036,Mohan Singh,41,Male,Neurology,Dr. Patel,2021-04-20,,,Admitted,Self-Pay,April,2021
+PID0037,Mohan Rao,59,Male,Oncology,Dr. Reddy,2021-09-15,,,Admitted,Private,September,2021
+PID0038,Ravi Patel,61,Male,Neurology,Dr. Nair,2022-10-15,,,Admitted,Corporate,October,2022
+PID0039,Arjun Singh,52,Male,Neurology,Dr. Singh,2022-12-09,2022-12-14,5,Discharged,Government,December,2022
+PID0040,Sunita Kumar,10,Female,General Medicine,Dr. Patel,2021-11-12,,,Under Observation,Government,November,2021
+PID0041,Ravi Iyer,35,Male,Oncology,Dr. Patel,2022-09-28,,,Under Observation,Government,September,2022
+PID0042,Priya Patel,57,Female,Oncology,Dr. Nair,2023-01-25,2023-02-05,11,Discharged,Government,January,2023
+PID0043,Sunita Singh,33,Female,Orthopedics,Dr. Iyer,2022-01-27,,,Under Observation,Corporate,January,2022
+PID0044,Meena Sharma,56,Female,General Medicine,Dr. Reddy,2021-08-17,2021-08-18,1,Discharged,Private,August,2021
+PID0045,Latha Iyer,8,Female,Cardiology,Dr. Reddy,2022-11-27,2022-12-15,18,Discharged,Government,November,2022
+PID0046,Priya Singh,45,Female,Pediatrics,Dr. Singh,2022-09-03,2022-09-17,14,Discharged,Private,September,2022
+PID0047,Nisha Sharma,5,Female,Neurology,Dr. Iyer,2021-09-18,2021-09-20,2,Discharged,Government,September,2021
+PID0048,Rekha Singh,20,Female,Emergency,Dr. Reddy,2022-11-12,2022-11-23,11,Discharged,Self-Pay,November,2022
+PID0049,Latha Iyer,29,Female,Pediatrics,Dr. Nair,2022-12-15,2022-12-25,10,Discharged,Corporate,December,2022
+PID0050,Nikhil Reddy,43,Male,General Medicine,Dr. Patel,2022-02-20,,,Under Observation,Corporate,February,2022
+PID0051,Pooja Rao,26,Female,Emergency,Dr. Sharma,2022-03-29,2022-04-05,7,Discharged,Self-Pay,March,2022
+PID0052,Anita Sharma,30,Female,Orthopedics,Dr. Sharma,2022-11-20,2022-11-30,10,Discharged,Private,November,2022
+PID0053,Kiran Singh,78,Male,Orthopedics,Dr. Nair,2022-04-12,,,Under Observation,Corporate,April,2022
+PID0054,Rekha Sharma,18,Female,Oncology,Dr. Kumar,2021-06-01,2021-06-22,21,Discharged,Government,June,2021
+PID0055,Deepak Rao,20,Male,Pediatrics,Dr. Patel,2021-02-21,2021-03-11,18,Discharged,Corporate,February,2021
+PID0056,Pooja Iyer,65,Female,Pediatrics,Dr. Reddy,2022-07-16,,,Under Observation,Government,July,2022
+PID0057,Divya Rao,14,Female,Emergency,Dr. Reddy,2022-10-04,2022-10-12,8,Discharged,Government,October,2022
+PID0058,Latha Nair,34,Female,Pediatrics,Dr. Nair,2022-07-08,,,Admitted,Government,July,2022
+PID0059,Arjun Iyer,58,Male,Cardiology,Dr. Patel,2022-02-22,2022-03-05,11,Discharged,Corporate,February,2022
+PID0060,Nisha Kumar,5,Female,General Medicine,Dr. Reddy,2023-02-23,2023-03-14,19,Discharged,Corporate,February,2023
+PID0061,Divya Sharma,67,Female,Cardiology,Dr. Kumar,2022-05-15,2022-05-23,8,Discharged,Self-Pay,May,2022
+PID0062,Sunita Rao,55,Female,Neurology,Dr. Singh,2021-05-11,2021-05-31,20,Discharged,Private,May,2021
+PID0063,Anand Patel,53,Male,General Medicine,Dr. Patel,2022-04-18,,,Admitted,Corporate,April,2022
+PID0064,Latha Iyer,15,Female,Pediatrics,Dr. Sharma,2021-10-12,2021-10-26,14,Discharged,Private,October,2021
+PID0065,Kavitha Singh,8,Female,Orthopedics,Dr. Patel,2023-03-11,,,Admitted,Private,March,2023
+PID0066,Suresh Patel,32,Male,Pediatrics,Dr. Nair,2022-04-30,2022-05-04,4,Discharged,Self-Pay,April,2022
+PID0067,Sunita Singh,18,Female,Neurology,Dr. Sharma,2023-03-08,,,ICU,Self-Pay,March,2023
+PID0068,Rekha Sharma,85,Female,Orthopedics,Dr. Sharma,2021-03-19,2021-04-07,19,Discharged,Self-Pay,March,2021
+PID0069,Nikhil Kumar,52,Male,Cardiology,Dr. Singh,2021-12-22,2022-01-09,18,Discharged,Self-Pay,December,2021
+PID0070,Anand Rao,63,Male,Emergency,Dr. Patel,2021-04-19,,,ICU,Corporate,April,2021
+PID0071,Deepak Reddy,64,Male,Pediatrics,Dr. Iyer,2022-09-23,2022-10-11,18,Discharged,Self-Pay,September,2022
+PID0072,Kavitha Singh,64,Female,Neurology,Dr. Singh,2021-10-13,2021-10-28,15,Discharged,Corporate,October,2021
+PID0073,Priya Rao,50,Female,Oncology,Dr. Reddy,2021-11-29,2021-12-05,6,Discharged,Self-Pay,November,2021
+PID0074,Nisha Reddy,29,Female,Cardiology,Dr. Patel,2022-07-24,2022-07-25,1,Discharged,Corporate,July,2022
+PID0075,Divya Sharma,67,Female,Pediatrics,Dr. Iyer,2022-12-09,2022-12-25,16,Discharged,Private,December,2022
+PID0076,Mohan Sharma,79,Male,General Medicine,Dr. Kumar,2022-02-19,2022-02-27,8,Discharged,Self-Pay,February,2022
+PID0077,Divya Nair,37,Female,Orthopedics,Dr. Sharma,2021-12-27,2022-01-11,15,Discharged,Government,December,2021
+PID0078,Anita Patel,40,Female,Emergency,Dr. Singh,2021-07-16,2021-07-23,7,Discharged,Self-Pay,July,2021
+PID0079,Suresh Reddy,6,Male,Emergency,Dr. Singh,2021-08-21,,,Admitted,Government,August,2021
+PID0080,Priya Kumar,21,Female,Emergency,Dr. Iyer,2022-07-21,2022-07-31,10,Discharged,Corporate,July,2022
+PID0081,Rahul Reddy,28,Male,Cardiology,Dr. Reddy,2022-04-26,2022-05-12,16,Discharged,Corporate,April,2022
+PID0082,Arjun Iyer,11,Male,Orthopedics,Dr. Patel,2022-05-19,2022-05-22,3,Discharged,Self-Pay,May,2022
+PID0083,Suresh Singh,84,Male,Orthopedics,Dr. Iyer,2022-07-26,2022-08-09,14,Discharged,Corporate,July,2022
+PID0084,Pooja Reddy,84,Female,Cardiology,Dr. Singh,2022-08-26,2022-09-09,14,Discharged,Private,August,2022
+PID0085,Suresh Reddy,27,Male,Neurology,Dr. Sharma,2022-11-08,,,Admitted,Government,November,2022
+PID0086,Anand Rao,9,Male,Orthopedics,Dr. Reddy,2022-12-07,2022-12-27,20,Discharged,Self-Pay,December,2022
+PID0087,Anita Sharma,30,Female,Pediatrics,Dr. Sharma,2021-09-28,2021-10-19,21,Discharged,Government,September,2021
+PID0088,Mohan Patel,44,Male,Neurology,Dr. Nair,2021-03-15,,,Admitted,Self-Pay,March,2021
+PID0089,Anita Rao,39,Female,Neurology,Dr. Singh,2022-12-07,2022-12-17,10,Discharged,Corporate,December,2022
+PID0090,Anita Kumar,8,Female,Cardiology,Dr. Patel,2022-03-19,2022-03-30,11,Discharged,Private,March,2022
+PID0091,Nisha Kumar,61,Female,General Medicine,Dr. Patel,2023-02-21,2023-02-27,6,Discharged,Corporate,February,2023
+PID0092,Anita Rao,18,Female,Oncology,Dr. Patel,2021-12-23,2022-01-06,14,Discharged,Self-Pay,December,2021
+PID0093,Pooja Reddy,75,Female,Cardiology,Dr. Kumar,2022-11-10,,,Under Observation,Private,November,2022
+PID0094,Meena Nair,5,Female,Emergency,Dr. Iyer,2021-04-29,,,Under Observation,Corporate,April,2021
+PID0095,Priya Sharma,68,Female,Emergency,Dr. Kumar,2022-06-15,2022-06-27,12,Discharged,Private,June,2022
+PID0096,Mohan Patel,67,Male,Cardiology,Dr. Sharma,2021-10-22,,,Under Observation,Government,October,2021
+PID0097,Mohan Kumar,19,Male,Pediatrics,Dr. Sharma,2022-07-20,,,Admitted,Government,July,2022
+PID0098,Meena Reddy,36,Female,Pediatrics,Dr. Singh,2022-03-02,,,ICU,Government,March,2022
+PID0099,Kavitha Patel,58,Female,General Medicine,Dr. Iyer,2021-03-13,2021-03-22,9,Discharged,Self-Pay,March,2021
+PID0100,Mohan Reddy,67,Male,Oncology,Dr. Patel,2022-08-25,,,ICU,Corporate,August,2022
+PID0101,Latha Nair,46,Female,Oncology,Dr. Patel,2022-07-20,2022-08-07,18,Discharged,Government,July,2022
+PID0102,Kavitha Iyer,53,Female,Pediatrics,Dr. Nair,2021-02-14,2021-02-25,11,Discharged,Government,February,2021
+PID0103,Priya Patel,17,Female,Oncology,Dr. Iyer,2022-05-30,2022-06-18,19,Discharged,Corporate,May,2022
+PID0104,Deepak Rao,24,Male,Cardiology,Dr. Kumar,2021-01-16,2021-01-21,5,Discharged,Self-Pay,January,2021
+PID0105,Nisha Iyer,73,Female,Pediatrics,Dr. Reddy,2022-10-28,,,Under Observation,Corporate,October,2022
+PID0106,Nikhil Singh,41,Male,Orthopedics,Dr. Nair,2021-08-29,2021-09-19,21,Discharged,Private,August,2021
+PID0107,Anita Singh,8,Female,Cardiology,Dr. Reddy,2022-03-31,2022-04-06,6,Discharged,Private,March,2022
+PID0108,Latha Nair,57,Female,Neurology,Dr. Nair,2022-03-18,2022-03-23,5,Discharged,Government,March,2022
+PID0109,Vikram Singh,35,Male,Pediatrics,Dr. Singh,2022-09-17,2022-09-30,13,Discharged,Government,September,2022
+PID0110,Kiran Reddy,64,Male,General Medicine,Dr. Nair,2022-04-16,2022-04-25,9,Discharged,Government,April,2022
+PID0111,Kiran Nair,59,Male,Emergency,Dr. Reddy,2022-08-25,2022-09-04,10,Discharged,Corporate,August,2022
+PID0112,Kavitha Iyer,78,Female,General Medicine,Dr. Singh,2022-05-10,2022-05-14,4,Discharged,Self-Pay,May,2022
+PID0113,Priya Iyer,11,Female,Neurology,Dr. Nair,2021-10-09,2021-10-10,1,Discharged,Corporate,October,2021
+PID0114,Kavitha Nair,37,Female,Emergency,Dr. Iyer,2021-08-13,,,Admitted,Government,August,2021
+PID0115,Rahul Reddy,51,Male,Emergency,Dr. Patel,2023-03-19,,,Admitted,Private,March,2023
+PID0116,Latha Iyer,74,Female,General Medicine,Dr. Singh,2021-06-29,,,Admitted,Self-Pay,June,2021
+PID0117,Mohan Rao,48,Male,Oncology,Dr. Sharma,2023-04-06,2023-04-16,10,Discharged,Corporate,April,2023
+PID0118,Vikram Sharma,76,Male,General Medicine,Dr. Sharma,2022-11-24,,,ICU,Corporate,November,2022
+PID0119,Mohan Singh,38,Male,Neurology,Dr. Kumar,2022-04-11,2022-04-23,12,Discharged,Self-Pay,April,2022
+PID0120,Suresh Rao,76,Male,General Medicine,Dr. Singh,2021-01-26,,,Under Observation,Government,January,2021
+PID0121,Kiran Reddy,10,Male,Cardiology,Dr. Reddy,2022-10-27,,,Admitted,Corporate,October,2022
+PID0122,Arjun Sharma,52,Male,Emergency,Dr. Nair,2022-07-05,2022-07-10,5,Discharged,Corporate,July,2022
+PID0123,Anand Singh,40,Male,Cardiology,Dr. Nair,2022-05-17,2022-06-06,20,Discharged,Self-Pay,May,2022
+PID0124,Kiran Rao,52,Male,Neurology,Dr. Nair,2021-08-30,,,Admitted,Self-Pay,August,2021
+PID0125,Anand Reddy,63,Male,Cardiology,Dr. Nair,2021-07-14,,,Under Observation,Government,July,2021
+PID0126,Rahul Nair,31,Male,Cardiology,Dr. Iyer,2021-09-07,2021-09-12,5,Discharged,Government,September,2021
+PID0127,Suresh Nair,81,Male,Cardiology,Dr. Reddy,2023-03-04,2023-03-09,5,Discharged,Government,March,2023
+PID0128,Deepak Reddy,8,Male,Orthopedics,Dr. Sharma,2023-03-29,,,Admitted,Self-Pay,March,2023
+PID0129,Nikhil Nair,21,Male,Emergency,Dr. Kumar,2021-01-17,2021-01-23,6,Discharged,Private,January,2021
+PID0130,Kiran Rao,18,Male,Pediatrics,Dr. Singh,2023-03-08,2023-03-20,12,Discharged,Government,March,2023
+PID0131,Deepak Reddy,12,Male,Pediatrics,Dr. Iyer,2022-04-15,,,ICU,Corporate,April,2022
+PID0132,Anita Rao,15,Female,General Medicine,Dr. Singh,2022-12-31,,,Admitted,Government,December,2022
+PID0133,Vikram Reddy,46,Male,Pediatrics,Dr. Singh,2022-10-02,2022-10-23,21,Discharged,Self-Pay,October,2022
+PID0134,Divya Iyer,75,Female,Emergency,Dr. Iyer,2021-04-12,,,Under Observation,Government,April,2021
+PID0135,Pooja Sharma,56,Female,Pediatrics,Dr. Nair,2022-02-28,,,Under Observation,Private,February,2022
+PID0136,Rekha Nair,24,Female,Emergency,Dr. Kumar,2022-11-13,2022-11-22,9,Discharged,Private,November,2022
+PID0137,Arjun Singh,52,Male,Oncology,Dr. Patel,2022-03-19,2022-03-23,4,Discharged,Private,March,2022
+PID0138,Anita Iyer,11,Female,General Medicine,Dr. Singh,2021-12-29,,,Under Observation,Self-Pay,December,2021
+PID0139,Anita Sharma,18,Female,General Medicine,Dr. Iyer,2021-06-08,2021-06-24,16,Discharged,Self-Pay,June,2021
+PID0140,Mohan Sharma,84,Male,Neurology,Dr. Nair,2023-04-07,,,Under Observation,Private,April,2023
+PID0141,Priya Patel,49,Female,Cardiology,Dr. Patel,2021-10-07,,,Under Observation,Government,October,2021
+PID0142,Anita Patel,16,Female,Emergency,Dr. Singh,2023-01-29,,,ICU,Government,January,2023
+PID0143,Rekha Rao,46,Female,Oncology,Dr. Singh,2021-12-16,2021-12-22,6,Discharged,Private,December,2021
+PID0144,Vikram Patel,15,Male,General Medicine,Dr. Kumar,2023-02-12,,,Admitted,Corporate,February,2023
+PID0145,Nisha Rao,70,Female,Cardiology,Dr. Reddy,2022-03-01,2022-03-10,9,Discharged,Corporate,March,2022
+PID0146,Mohan Rao,55,Male,Neurology,Dr. Sharma,2022-06-24,,,Admitted,Private,June,2022
+PID0147,Mohan Sharma,42,Male,General Medicine,Dr. Sharma,2023-02-25,2023-03-02,5,Discharged,Private,February,2023
+PID0148,Rekha Patel,34,Female,Neurology,Dr. Singh,2021-05-13,2021-05-26,13,Discharged,Self-Pay,May,2021
+PID0149,Anand Kumar,14,Male,Oncology,Dr. Reddy,2022-03-23,2022-03-24,1,Discharged,Corporate,March,2022
+PID0150,Rekha Reddy,46,Female,Orthopedics,Dr. Iyer,2021-04-28,,,Admitted,Corporate,April,2021
+PID0151,Anita Iyer,56,Female,Neurology,Dr. Sharma,2021-04-19,2021-04-27,8,Discharged,Corporate,April,2021
+PID0152,Latha Sharma,19,Female,Neurology,Dr. Singh,2021-12-08,,,Admitted,Government,December,2021
+PID0153,Latha Patel,30,Female,Orthopedics,Dr. Singh,2021-08-30,,,Admitted,Government,August,2021
+PID0154,Vikram Rao,62,Male,Emergency,Dr. Singh,2022-04-21,2022-05-10,19,Discharged,Self-Pay,April,2022
+PID0155,Sunita Rao,43,Female,Oncology,Dr. Reddy,2021-03-11,2021-03-27,16,Discharged,Private,March,2021
+PID0156,Divya Singh,12,Female,General Medicine,Dr. Iyer,2021-11-14,2021-11-29,15,Discharged,Self-Pay,November,2021
+PID0157,Arjun Iyer,10,Male,Pediatrics,Dr. Iyer,2022-04-19,2022-05-08,19,Discharged,Government,April,2022
+PID0158,Nisha Rao,62,Female,Cardiology,Dr. Iyer,2022-05-29,,,ICU,Self-Pay,May,2022
+PID0159,Deepak Patel,61,Male,Neurology,Dr. Singh,2021-02-10,2021-02-18,8,Discharged,Government,February,2021
+PID0160,Latha Reddy,81,Female,Cardiology,Dr. Iyer,2022-02-01,2022-02-15,14,Discharged,Self-Pay,February,2022
+PID0161,Ravi Singh,82,Male,Oncology,Dr. Patel,2022-07-26,2022-08-08,13,Discharged,Self-Pay,July,2022
+PID0162,Nikhil Patel,55,Male,Orthopedics,Dr. Singh,2021-12-25,,,ICU,Private,December,2021
+PID0163,Divya Iyer,72,Female,Cardiology,Dr. Nair,2022-10-21,,,Under Observation,Corporate,October,2022
+PID0164,Priya Nair,48,Female,Oncology,Dr. Kumar,2021-11-13,,,ICU,Government,November,2021
+PID0165,Vikram Patel,17,Male,Neurology,Dr. Iyer,2021-03-21,,,Under Observation,Private,March,2021
+PID0166,Nisha Patel,28,Female,Oncology,Dr. Nair,2022-09-04,,,Admitted,Government,September,2022
+PID0167,Priya Iyer,83,Female,General Medicine,Dr. Iyer,2022-01-09,,,ICU,Corporate,January,2022
+PID0168,Deepak Sharma,29,Male,General Medicine,Dr. Nair,2021-11-13,,,Under Observation,Corporate,November,2021
+PID0169,Meena Iyer,25,Female,Oncology,Dr. Patel,2022-05-30,2022-06-16,17,Discharged,Government,May,2022
+PID0170,Priya Rao,71,Female,Oncology,Dr. Sharma,2022-01-16,,,Under Observation,Self-Pay,January,2022
+PID0171,Vikram Reddy,60,Male,Cardiology,Dr. Patel,2022-04-06,,,Admitted,Corporate,April,2022
+PID0172,Priya Iyer,35,Female,Pediatrics,Dr. Sharma,2021-02-24,2021-03-09,13,Discharged,Self-Pay,February,2021
+PID0173,Rahul Nair,23,Male,Orthopedics,Dr. Sharma,2021-04-12,2021-05-03,21,Discharged,Self-Pay,April,2021
+PID0174,Sunita Rao,15,Female,Cardiology,Dr. Reddy,2022-04-05,,,Admitted,Government,April,2022
+PID0175,Deepak Iyer,20,Male,Cardiology,Dr. Patel,2021-04-24,2021-05-04,10,Discharged,Corporate,April,2021
+PID0176,Anita Singh,85,Female,Neurology,Dr. Singh,2022-05-27,2022-06-16,20,Discharged,Government,May,2022
+PID0177,Mohan Iyer,78,Male,Pediatrics,Dr. Patel,2021-01-02,2021-01-22,20,Discharged,Private,January,2021
+PID0178,Anita Kumar,54,Female,General Medicine,Dr. Reddy,2022-02-04,,,Admitted,Private,February,2022
+PID0179,Anita Nair,79,Female,Emergency,Dr. Iyer,2021-09-04,,,Admitted,Self-Pay,September,2021
+PID0180,Rahul Nair,27,Male,Oncology,Dr. Iyer,2022-07-14,,,Under Observation,Corporate,July,2022
+PID0181,Sunita Patel,30,Female,Cardiology,Dr. Iyer,2021-03-06,,,Admitted,Government,March,2021
+PID0182,Ravi Reddy,74,Male,Pediatrics,Dr. Reddy,2022-06-12,,,ICU,Private,June,2022
+PID0183,Mohan Nair,47,Male,General Medicine,Dr. Sharma,2023-03-11,,,Under Observation,Self-Pay,March,2023
+PID0184,Rekha Rao,68,Female,Emergency,Dr. Kumar,2022-01-31,,,ICU,Self-Pay,January,2022
+PID0185,Anita Iyer,28,Female,Neurology,Dr. Reddy,2021-03-22,2021-04-05,14,Discharged,Self-Pay,March,2021
+PID0186,Arjun Nair,82,Male,Emergency,Dr. Kumar,2022-11-08,2022-11-18,10,Discharged,Government,November,2022
+PID0187,Latha Rao,60,Female,General Medicine,Dr. Nair,2021-02-13,2021-02-25,12,Discharged,Private,February,2021
+PID0188,Anand Nair,23,Male,Oncology,Dr. Singh,2022-06-10,,,ICU,Corporate,June,2022
+PID0189,Vikram Singh,54,Male,Neurology,Dr. Sharma,2021-08-30,2021-09-20,21,Discharged,Government,August,2021
+PID0190,Latha Nair,72,Female,General Medicine,Dr. Kumar,2022-03-31,2022-04-03,3,Discharged,Self-Pay,March,2022
+PID0191,Kavitha Singh,54,Female,Neurology,Dr. Sharma,2021-01-27,2021-02-02,6,Discharged,Self-Pay,January,2021
+PID0192,Pooja Sharma,67,Female,Orthopedics,Dr. Sharma,2022-09-19,2022-09-29,10,Discharged,Government,September,2022
+PID0193,Kiran Patel,45,Male,Emergency,Dr. Reddy,2023-01-01,,,ICU,Private,January,2023
+PID0194,Meena Patel,51,Female,Neurology,Dr. Patel,2022-12-30,,,Admitted,Private,December,2022
+PID0195,Vikram Sharma,75,Male,Neurology,Dr. Reddy,2023-03-21,,,Admitted,Corporate,March,2023
+PID0196,Nikhil Singh,66,Male,Neurology,Dr. Kumar,2021-03-09,2021-03-19,10,Discharged,Corporate,March,2021
+PID0197,Vikram Nair,71,Male,General Medicine,Dr. Patel,2022-10-20,2022-10-23,3,Discharged,Government,October,2022
+PID0198,Anand Kumar,26,Male,Orthopedics,Dr. Reddy,2021-05-08,,,Admitted,Government,May,2021
+PID0199,Divya Reddy,75,Female,General Medicine,Dr. Patel,2021-03-22,,,Admitted,Self-Pay,March,2021
+PID0200,Deepak Patel,84,Male,Emergency,Dr. Singh,2022-08-30,,,Admitted,Self-Pay,August,2022
+PID0201,Rahul Singh,38,Male,Emergency,Dr. Patel,2021-02-16,2021-03-09,21,Discharged,Corporate,February,2021
+PID0202,Kiran Reddy,56,Male,General Medicine,Dr. Kumar,2022-10-20,2022-10-30,10,Discharged,Private,October,2022
+PID0203,Vikram Rao,48,Male,Neurology,Dr. Patel,2022-03-02,2022-03-18,16,Discharged,Self-Pay,March,2022
+PID0204,Latha Iyer,18,Female,General Medicine,Dr. Patel,2021-05-14,2021-05-26,12,Discharged,Corporate,May,2021
+PID0205,Mohan Rao,42,Male,Pediatrics,Dr. Iyer,2021-09-11,,,Admitted,Corporate,September,2021
+PID0206,Vikram Nair,25,Male,Pediatrics,Dr. Singh,2022-08-15,,,Admitted,Corporate,August,2022
+PID0207,Meena Rao,69,Female,Pediatrics,Dr. Patel,2021-01-24,,,Under Observation,Government,January,2021
+PID0208,Priya Kumar,65,Female,General Medicine,Dr. Singh,2021-10-16,2021-11-01,16,Discharged,Private,October,2021
+PID0209,Anand Patel,51,Male,Cardiology,Dr. Kumar,2021-09-28,2021-10-10,12,Discharged,Private,September,2021
+PID0210,Ravi Reddy,75,Male,General Medicine,Dr. Iyer,2021-03-17,2021-03-30,13,Discharged,Private,March,2021
+PID0211,Arjun Iyer,51,Male,Oncology,Dr. Patel,2022-01-18,2022-01-29,11,Discharged,Government,January,2022
+PID0212,Divya Kumar,47,Female,Oncology,Dr. Kumar,2021-02-16,,,Admitted,Corporate,February,2021
+PID0213,Nikhil Patel,55,Male,Neurology,Dr. Nair,2021-12-02,2021-12-22,20,Discharged,Self-Pay,December,2021
+PID0214,Divya Rao,7,Female,General Medicine,Dr. Reddy,2022-12-27,2023-01-15,19,Discharged,Private,December,2022
+PID0215,Nisha Reddy,65,Female,General Medicine,Dr. Nair,2023-03-27,,,Admitted,Government,March,2023
+PID0216,Nikhil Rao,84,Male,Oncology,Dr. Iyer,2021-06-24,2021-07-11,17,Discharged,Corporate,June,2021
+PID0217,Suresh Kumar,61,Male,General Medicine,Dr. Kumar,2022-08-10,,,Admitted,Government,August,2022
+PID0218,Kavitha Iyer,12,Female,Emergency,Dr. Patel,2022-05-29,,,Under Observation,Government,May,2022
+PID0219,Pooja Iyer,73,Female,General Medicine,Dr. Singh,2021-11-18,2021-11-24,6,Discharged,Self-Pay,November,2021
+PID0220,Nisha Rao,43,Female,Orthopedics,Dr. Reddy,2021-07-16,2021-07-24,8,Discharged,Self-Pay,July,2021
+PID0221,Kiran Nair,40,Male,General Medicine,Dr. Sharma,2022-05-07,2022-05-19,12,Discharged,Corporate,May,2022
+PID0222,Latha Patel,15,Female,General Medicine,Dr. Kumar,2021-10-25,2021-10-27,2,Discharged,Self-Pay,October,2021
+PID0223,Kavitha Sharma,76,Female,Emergency,Dr. Reddy,2023-04-28,2023-05-16,18,Discharged,Government,April,2023
+PID0224,Nikhil Sharma,72,Male,Orthopedics,Dr. Nair,2021-09-06,2021-09-08,2,Discharged,Government,September,2021
+PID0225,Arjun Iyer,22,Male,Cardiology,Dr. Singh,2021-12-05,,,Admitted,Government,December,2021
+PID0226,Pooja Rao,41,Female,General Medicine,Dr. Reddy,2022-10-29,2022-11-05,7,Discharged,Private,October,2022
+PID0227,Nikhil Sharma,27,Male,Pediatrics,Dr. Iyer,2022-07-02,,,Under Observation,Government,July,2022
+PID0228,Anand Rao,6,Male,General Medicine,Dr. Singh,2021-07-10,,,Under Observation,Private,July,2021
+PID0229,Meena Rao,22,Female,Oncology,Dr. Singh,2022-10-19,2022-11-06,18,Discharged,Corporate,October,2022
+PID0230,Kavitha Singh,37,Female,Emergency,Dr. Patel,2021-12-05,2021-12-11,6,Discharged,Private,December,2021
+PID0231,Meena Sharma,56,Female,Oncology,Dr. Kumar,2021-06-29,,,Under Observation,Self-Pay,June,2021
+PID0232,Anand Singh,36,Male,Cardiology,Dr. Reddy,2021-07-09,2021-07-14,5,Discharged,Corporate,July,2021
+PID0233,Kiran Reddy,78,Male,Cardiology,Dr. Reddy,2021-12-04,2021-12-14,10,Discharged,Self-Pay,December,2021
+PID0234,Rahul Singh,69,Male,Emergency,Dr. Iyer,2022-04-22,,,Admitted,Self-Pay,April,2022
+PID0235,Mohan Nair,22,Male,Pediatrics,Dr. Patel,2022-09-22,2022-09-30,8,Discharged,Corporate,September,2022
+PID0236,Rekha Rao,32,Female,Oncology,Dr. Patel,2023-02-15,,,Under Observation,Private,February,2023
+PID0237,Divya Nair,75,Female,Neurology,Dr. Patel,2021-03-21,,,Admitted,Government,March,2021
+PID0238,Ravi Rao,67,Male,Cardiology,Dr. Singh,2021-04-30,2021-05-07,7,Discharged,Corporate,April,2021
+PID0239,Kiran Patel,12,Male,Neurology,Dr. Kumar,2022-06-10,2022-06-24,14,Discharged,Self-Pay,June,2022
+PID0240,Anand Reddy,79,Male,Cardiology,Dr. Sharma,2023-04-17,2023-04-18,1,Discharged,Corporate,April,2023
+PID0241,Anita Kumar,57,Female,Orthopedics,Dr. Iyer,2021-03-12,,,Admitted,Government,March,2021
+PID0242,Latha Iyer,74,Female,Orthopedics,Dr. Nair,2022-04-05,2022-04-18,13,Discharged,Self-Pay,April,2022
+PID0243,Vikram Iyer,33,Male,Oncology,Dr. Sharma,2022-06-26,2022-07-01,5,Discharged,Private,June,2022
+PID0244,Pooja Iyer,36,Female,Pediatrics,Dr. Reddy,2022-06-29,,,Under Observation,Government,June,2022
+PID0245,Kavitha Singh,7,Female,Orthopedics,Dr. Patel,2021-02-02,2021-02-16,14,Discharged,Private,February,2021
+PID0246,Nikhil Kumar,11,Male,Orthopedics,Dr. Nair,2022-04-03,2022-04-23,20,Discharged,Private,April,2022
+PID0247,Pooja Sharma,12,Female,Orthopedics,Dr. Singh,2022-07-07,2022-07-14,7,Discharged,Self-Pay,July,2022
+PID0248,Nikhil Nair,46,Male,Orthopedics,Dr. Reddy,2022-08-15,2022-09-04,20,Discharged,Government,August,2022
+PID0249,Anand Reddy,80,Male,Emergency,Dr. Patel,2021-10-09,2021-10-11,2,Discharged,Corporate,October,2021
+PID0250,Priya Nair,45,Female,Emergency,Dr. Kumar,2022-10-21,2022-11-03,13,Discharged,Corporate,October,2022
+PID0251,Mohan Iyer,33,Male,General Medicine,Dr. Iyer,2021-07-08,2021-07-26,18,Discharged,Government,July,2021
+PID0252,Priya Iyer,54,Female,Orthopedics,Dr. Reddy,2022-03-03,2022-03-21,18,Discharged,Government,March,2022
+PID0253,Anita Rao,29,Female,Cardiology,Dr. Reddy,2022-01-15,2022-01-18,3,Discharged,Corporate,January,2022
+PID0254,Arjun Sharma,76,Male,Orthopedics,Dr. Kumar,2023-04-04,2023-04-23,19,Discharged,Government,April,2023
+PID0255,Meena Kumar,20,Female,Emergency,Dr. Iyer,2021-08-05,,,ICU,Corporate,August,2021
+PID0256,Nikhil Sharma,41,Male,Pediatrics,Dr. Kumar,2022-02-11,2022-02-19,8,Discharged,Self-Pay,February,2022
+PID0257,Meena Nair,65,Female,Oncology,Dr. Iyer,2022-06-10,2022-06-26,16,Discharged,Self-Pay,June,2022
+PID0258,Ravi Nair,33,Male,Emergency,Dr. Patel,2022-02-28,2022-03-02,2,Discharged,Private,February,2022
+PID0259,Divya Iyer,34,Female,Pediatrics,Dr. Singh,2021-10-30,,,Admitted,Government,October,2021
+PID0260,Divya Nair,67,Female,Pediatrics,Dr. Patel,2021-09-21,,,ICU,Self-Pay,September,2021
+PID0261,Vikram Rao,12,Male,Neurology,Dr. Sharma,2021-07-08,,,ICU,Private,July,2021
+PID0262,Rahul Iyer,24,Male,Cardiology,Dr. Patel,2021-05-21,2021-06-11,21,Discharged,Corporate,May,2021
+PID0263,Priya Rao,73,Female,Neurology,Dr. Kumar,2022-11-07,,,Admitted,Private,November,2022
+PID0264,Deepak Reddy,60,Male,Oncology,Dr. Patel,2022-07-03,,,Admitted,Private,July,2022
+PID0265,Deepak Patel,37,Male,Oncology,Dr. Reddy,2021-09-04,2021-09-11,7,Discharged,Self-Pay,September,2021
+PID0266,Anita Nair,33,Female,General Medicine,Dr. Nair,2022-02-20,2022-03-07,15,Discharged,Private,February,2022
+PID0267,Arjun Iyer,12,Male,Emergency,Dr. Sharma,2022-01-24,2022-02-06,13,Discharged,Government,January,2022
+PID0268,Kiran Iyer,17,Male,Neurology,Dr. Sharma,2022-10-23,2022-11-03,11,Discharged,Government,October,2022
+PID0269,Nikhil Rao,40,Male,Neurology,Dr. Singh,2021-10-05,,,Under Observation,Private,October,2021
+PID0270,Ravi Kumar,55,Male,Cardiology,Dr. Reddy,2021-08-01,,,Admitted,Government,August,2021
+PID0271,Nikhil Iyer,22,Male,Oncology,Dr. Nair,2022-11-25,2022-12-13,18,Discharged,Private,November,2022
+PID0272,Priya Singh,48,Female,Neurology,Dr. Iyer,2022-03-24,,,Under Observation,Corporate,March,2022
+PID0273,Priya Reddy,50,Female,Neurology,Dr. Kumar,2023-03-14,2023-03-29,15,Discharged,Corporate,March,2023
+PID0274,Nikhil Iyer,36,Male,Emergency,Dr. Sharma,2021-03-29,2021-04-18,20,Discharged,Private,March,2021
+PID0275,Sunita Iyer,54,Female,General Medicine,Dr. Reddy,2022-12-30,,,Admitted,Private,December,2022
+PID0276,Rahul Reddy,18,Male,Orthopedics,Dr. Sharma,2022-04-01,2022-04-13,12,Discharged,Government,April,2022
+PID0277,Pooja Iyer,75,Female,Cardiology,Dr. Singh,2021-04-16,,,Admitted,Self-Pay,April,2021
+PID0278,Priya Reddy,76,Female,Orthopedics,Dr. Singh,2022-02-28,2022-03-13,13,Discharged,Government,February,2022
+PID0279,Sunita Patel,23,Female,Cardiology,Dr. Patel,2021-10-03,2021-10-13,10,Discharged,Corporate,October,2021
+PID0280,Rekha Reddy,36,Female,Emergency,Dr. Nair,2022-05-11,2022-05-14,3,Discharged,Corporate,May,2022
+PID0281,Kiran Singh,55,Male,General Medicine,Dr. Iyer,2021-05-19,,,Admitted,Corporate,May,2021
+PID0282,Pooja Nair,22,Female,General Medicine,Dr. Reddy,2022-03-17,,,ICU,Government,March,2022
+PID0283,Latha Patel,67,Female,Neurology,Dr. Iyer,2022-02-12,2022-02-23,11,Discharged,Government,February,2022
+PID0284,Rekha Reddy,77,Female,Orthopedics,Dr. Singh,2023-04-17,2023-04-30,13,Discharged,Government,April,2023
+PID0285,Kiran Sharma,13,Male,Oncology,Dr. Iyer,2022-03-25,,,Under Observation,Corporate,March,2022
+PID0286,Sunita Reddy,59,Female,Oncology,Dr. Kumar,2021-09-05,2021-09-14,9,Discharged,Private,September,2021
+PID0287,Nisha Rao,58,Female,Neurology,Dr. Sharma,2022-08-20,2022-09-02,13,Discharged,Self-Pay,August,2022
+PID0288,Arjun Sharma,83,Male,Cardiology,Dr. Singh,2022-11-05,,,Admitted,Corporate,November,2022
+PID0289,Rekha Singh,70,Female,Emergency,Dr. Singh,2021-01-11,2021-01-15,4,Discharged,Government,January,2021
+PID0290,Latha Iyer,24,Female,General Medicine,Dr. Sharma,2022-04-20,2022-05-09,19,Discharged,Corporate,April,2022
+PID0291,Mohan Iyer,23,Male,General Medicine,Dr. Reddy,2021-03-29,,,Under Observation,Self-Pay,March,2021
+PID0292,Kavitha Rao,62,Female,General Medicine,Dr. Sharma,2021-12-23,,,Admitted,Self-Pay,December,2021
+PID0293,Arjun Kumar,26,Male,Emergency,Dr. Patel,2021-12-18,,,Admitted,Government,December,2021
+PID0294,Ravi Iyer,85,Male,Orthopedics,Dr. Patel,2022-04-19,2022-04-27,8,Discharged,Corporate,April,2022
+PID0295,Priya Sharma,5,Female,Emergency,Dr. Patel,2022-04-06,2022-04-25,19,Discharged,Government,April,2022
+PID0296,Anita Singh,46,Female,Orthopedics,Dr. Kumar,2023-03-30,,,Admitted,Private,March,2023
+PID0297,Pooja Nair,80,Female,Cardiology,Dr. Reddy,2022-09-04,2022-09-17,13,Discharged,Self-Pay,September,2022
+PID0298,Nisha Patel,80,Female,Cardiology,Dr. Nair,2023-04-14,,,Under Observation,Government,April,2023
+PID0299,Anita Sharma,23,Female,Neurology,Dr. Kumar,2021-11-09,,,Admitted,Corporate,November,2021
+PID0300,Nikhil Iyer,73,Male,Emergency,Dr. Nair,2022-03-10,2022-03-16,6,Discharged,Government,March,2022
+PID0301,Kiran Reddy,62,Male,Neurology,Dr. Sharma,2021-05-24,2021-05-30,6,Discharged,Self-Pay,May,2021
+PID0302,Kiran Patel,69,Male,Emergency,Dr. Kumar,2021-07-19,,,ICU,Corporate,July,2021
+PID0303,Rekha Rao,8,Female,Oncology,Dr. Iyer,2022-05-16,,,Admitted,Government,May,2022
+PID0304,Priya Reddy,63,Female,Neurology,Dr. Nair,2021-08-19,2021-09-06,18,Discharged,Corporate,August,2021
+PID0305,Nikhil Singh,51,Male,Neurology,Dr. Iyer,2021-10-02,,,Under Observation,Private,October,2021
+PID0306,Divya Sharma,36,Female,General Medicine,Dr. Iyer,2022-03-12,2022-03-16,4,Discharged,Private,March,2022
+PID0307,Meena Nair,20,Female,Oncology,Dr. Iyer,2023-04-17,2023-04-20,3,Discharged,Government,April,2023
+PID0308,Nikhil Nair,26,Male,Neurology,Dr. Patel,2022-12-29,2023-01-18,20,Discharged,Government,December,2022
+PID0309,Rahul Nair,26,Male,General Medicine,Dr. Nair,2022-06-30,2022-07-09,9,Discharged,Self-Pay,June,2022
+PID0310,Nisha Reddy,57,Female,Cardiology,Dr. Reddy,2022-06-11,,,Admitted,Government,June,2022
+PID0311,Suresh Patel,55,Male,Pediatrics,Dr. Patel,2022-12-30,,,Under Observation,Self-Pay,December,2022
+PID0312,Rekha Rao,16,Female,Pediatrics,Dr. Singh,2021-03-19,2021-04-09,21,Discharged,Self-Pay,March,2021
+PID0313,Pooja Rao,16,Female,Emergency,Dr. Kumar,2021-12-02,,,Admitted,Self-Pay,December,2021
+PID0314,Deepak Iyer,68,Male,General Medicine,Dr. Reddy,2021-08-12,,,Under Observation,Self-Pay,August,2021
+PID0315,Divya Patel,11,Female,Cardiology,Dr. Sharma,2022-08-03,2022-08-19,16,Discharged,Corporate,August,2022
+PID0316,Arjun Patel,59,Male,Orthopedics,Dr. Nair,2022-03-28,,,Admitted,Government,March,2022
+PID0317,Sunita Reddy,15,Female,General Medicine,Dr. Nair,2021-04-06,2021-04-27,21,Discharged,Government,April,2021
+PID0318,Anand Reddy,16,Male,Emergency,Dr. Sharma,2023-01-14,2023-01-22,8,Discharged,Private,January,2023
+PID0319,Kiran Singh,61,Male,Cardiology,Dr. Sharma,2021-05-16,2021-06-04,19,Discharged,Self-Pay,May,2021
+PID0320,Anand Patel,16,Male,Emergency,Dr. Iyer,2022-05-05,2022-05-08,3,Discharged,Private,May,2022
+PID0321,Ravi Nair,22,Male,Emergency,Dr. Nair,2021-11-03,2021-11-08,5,Discharged,Government,November,2021
+PID0322,Deepak Kumar,49,Male,Emergency,Dr. Patel,2022-09-17,,,Admitted,Government,September,2022
+PID0323,Nisha Rao,22,Female,Oncology,Dr. Sharma,2021-08-11,,,Under Observation,Corporate,August,2021
+PID0324,Rekha Nair,15,Female,Orthopedics,Dr. Singh,2023-03-22,2023-03-27,5,Discharged,Self-Pay,March,2023
+PID0325,Mohan Sharma,55,Male,General Medicine,Dr. Nair,2022-06-15,2022-07-05,20,Discharged,Private,June,2022
+PID0326,Kiran Iyer,81,Male,Cardiology,Dr. Singh,2021-04-26,2021-05-04,8,Discharged,Private,April,2021
+PID0327,Latha Patel,74,Female,Emergency,Dr. Patel,2022-02-01,2022-02-20,19,Discharged,Corporate,February,2022
+PID0328,Rahul Singh,12,Male,Oncology,Dr. Kumar,2021-01-15,2021-01-24,9,Discharged,Self-Pay,January,2021
+PID0329,Rekha Iyer,83,Female,Orthopedics,Dr. Reddy,2021-03-26,2021-04-16,21,Discharged,Private,March,2021
+PID0330,Anita Sharma,55,Female,Neurology,Dr. Nair,2023-04-08,2023-04-13,5,Discharged,Private,April,2023
+PID0331,Rekha Sharma,60,Female,Cardiology,Dr. Kumar,2021-03-01,,,Admitted,Private,March,2021
+PID0332,Sunita Singh,25,Female,Pediatrics,Dr. Reddy,2021-01-13,2021-01-18,5,Discharged,Self-Pay,January,2021
+PID0333,Ravi Patel,20,Male,Oncology,Dr. Sharma,2023-02-07,2023-02-16,9,Discharged,Self-Pay,February,2023
+PID0334,Meena Singh,68,Female,Pediatrics,Dr. Singh,2021-09-27,2021-10-16,19,Discharged,Self-Pay,September,2021
+PID0335,Kiran Patel,18,Male,Neurology,Dr. Nair,2022-01-12,2022-01-18,6,Discharged,Private,January,2022
+PID0336,Deepak Kumar,65,Male,General Medicine,Dr. Kumar,2021-02-15,2021-02-16,1,Discharged,Government,February,2021
+PID0337,Rahul Iyer,45,Male,General Medicine,Dr. Iyer,2021-08-18,2021-08-29,11,Discharged,Private,August,2021
+PID0338,Anita Kumar,10,Female,Pediatrics,Dr. Sharma,2021-07-03,,,Under Observation,Corporate,July,2021
+PID0339,Meena Nair,52,Female,Orthopedics,Dr. Reddy,2021-03-30,2021-04-17,18,Discharged,Self-Pay,March,2021
+PID0340,Kiran Nair,30,Male,Emergency,Dr. Singh,2022-08-29,,,ICU,Government,August,2022
+PID0341,Rahul Iyer,6,Male,General Medicine,Dr. Sharma,2021-01-25,2021-02-02,8,Discharged,Corporate,January,2021
+PID0342,Anita Sharma,12,Female,Orthopedics,Dr. Nair,2022-06-27,2022-07-05,8,Discharged,Self-Pay,June,2022
+PID0343,Rahul Sharma,52,Male,Pediatrics,Dr. Nair,2022-06-17,2022-07-01,14,Discharged,Private,June,2022
+PID0344,Deepak Patel,77,Male,Cardiology,Dr. Kumar,2022-10-15,,,Admitted,Government,October,2022
+PID0345,Mohan Reddy,46,Male,General Medicine,Dr. Kumar,2021-11-19,2021-12-02,13,Discharged,Self-Pay,November,2021
+PID0346,Arjun Sharma,18,Male,Orthopedics,Dr. Kumar,2021-05-20,,,Admitted,Corporate,May,2021
+PID0347,Rekha Singh,31,Female,Pediatrics,Dr. Reddy,2022-07-03,,,ICU,Corporate,July,2022
+PID0348,Anita Singh,82,Female,Cardiology,Dr. Patel,2021-06-11,,,Under Observation,Self-Pay,June,2021
+PID0349,Arjun Sharma,43,Male,General Medicine,Dr. Iyer,2021-12-31,2022-01-13,13,Discharged,Government,December,2021
+PID0350,Anand Rao,64,Male,Cardiology,Dr. Iyer,2022-07-24,2022-08-11,18,Discharged,Government,July,2022
+PID0351,Rahul Kumar,56,Male,General Medicine,Dr. Nair,2023-03-11,,,Admitted,Private,March,2023
+PID0352,Anita Kumar,61,Female,Oncology,Dr. Patel,2021-03-08,,,Under Observation,Private,March,2021
+PID0353,Anita Kumar,78,Female,Pediatrics,Dr. Iyer,2022-04-18,,,Admitted,Corporate,April,2022
+PID0354,Priya Iyer,32,Female,Orthopedics,Dr. Reddy,2022-12-01,,,Admitted,Self-Pay,December,2022
+PID0355,Sunita Kumar,42,Female,Pediatrics,Dr. Kumar,2022-09-21,2022-10-11,20,Discharged,Corporate,September,2022
+PID0356,Arjun Reddy,72,Male,Orthopedics,Dr. Nair,2022-01-28,2022-02-02,5,Discharged,Private,January,2022
+PID0357,Latha Rao,77,Female,Neurology,Dr. Reddy,2022-07-12,2022-07-28,16,Discharged,Corporate,July,2022
+PID0358,Sunita Kumar,40,Female,Cardiology,Dr. Iyer,2021-11-23,2021-12-13,20,Discharged,Corporate,November,2021
+PID0359,Nisha Sharma,35,Female,General Medicine,Dr. Singh,2021-06-13,2021-06-17,4,Discharged,Private,June,2021
+PID0360,Nikhil Iyer,80,Male,General Medicine,Dr. Iyer,2021-12-30,,,Admitted,Self-Pay,December,2021
+PID0361,Ravi Patel,68,Male,Neurology,Dr. Reddy,2022-07-31,,,Under Observation,Government,July,2022
+PID0362,Priya Singh,7,Female,Neurology,Dr. Kumar,2021-02-27,2021-03-07,8,Discharged,Private,February,2021
+PID0363,Nisha Sharma,27,Female,Oncology,Dr. Iyer,2023-04-06,2023-04-11,5,Discharged,Self-Pay,April,2023
+PID0364,Rahul Patel,72,Male,Oncology,Dr. Reddy,2022-08-24,2022-08-29,5,Discharged,Private,August,2022
+PID0365,Rekha Singh,25,Female,Emergency,Dr. Kumar,2021-12-11,2021-12-21,10,Discharged,Corporate,December,2021
+PID0366,Sunita Nair,53,Female,General Medicine,Dr. Nair,2021-08-17,,,Under Observation,Self-Pay,August,2021
+PID0367,Vikram Kumar,77,Male,Cardiology,Dr. Patel,2022-12-20,2023-01-08,19,Discharged,Self-Pay,December,2022
+PID0368,Nikhil Singh,14,Male,Orthopedics,Dr. Reddy,2022-05-24,2022-05-29,5,Discharged,Self-Pay,May,2022
+PID0369,Arjun Nair,36,Male,Emergency,Dr. Sharma,2022-04-03,2022-04-04,1,Discharged,Self-Pay,April,2022
+PID0370,Anita Kumar,58,Female,Orthopedics,Dr. Kumar,2021-02-19,2021-03-04,13,Discharged,Corporate,February,2021
+PID0371,Latha Iyer,78,Female,Emergency,Dr. Iyer,2021-04-14,2021-04-30,16,Discharged,Government,April,2021
+PID0372,Kiran Singh,45,Male,General Medicine,Dr. Sharma,2023-03-30,2023-04-01,2,Discharged,Private,March,2023
+PID0373,Sunita Iyer,16,Female,General Medicine,Dr. Singh,2021-06-14,2021-06-17,3,Discharged,Corporate,June,2021
+PID0374,Anand Patel,17,Male,General Medicine,Dr. Patel,2022-09-14,,,Admitted,Government,September,2022
+PID0375,Divya Reddy,17,Female,Cardiology,Dr. Kumar,2022-11-08,2022-11-18,10,Discharged,Corporate,November,2022
+PID0376,Rahul Nair,85,Male,Neurology,Dr. Kumar,2021-01-04,,,Admitted,Government,January,2021
+PID0377,Rahul Sharma,15,Male,Pediatrics,Dr. Iyer,2021-06-24,2021-07-15,21,Discharged,Private,June,2021
+PID0378,Rekha Rao,74,Female,Pediatrics,Dr. Patel,2022-05-16,,,Admitted,Self-Pay,May,2022
+PID0379,Latha Patel,64,Female,General Medicine,Dr. Patel,2022-04-02,2022-04-04,2,Discharged,Self-Pay,April,2022
+PID0380,Vikram Singh,57,Male,Oncology,Dr. Singh,2021-03-29,,,Under Observation,Government,March,2021
+PID0381,Anand Iyer,35,Male,Pediatrics,Dr. Reddy,2022-07-03,2022-07-19,16,Discharged,Private,July,2022
+PID0382,Priya Patel,26,Female,Orthopedics,Dr. Iyer,2021-05-04,,,Admitted,Government,May,2021
+PID0383,Rahul Iyer,85,Male,Orthopedics,Dr. Iyer,2021-03-22,2021-04-05,14,Discharged,Self-Pay,March,2021
+PID0384,Anita Singh,46,Female,Oncology,Dr. Reddy,2022-02-02,2022-02-20,18,Discharged,Corporate,February,2022
+PID0385,Nikhil Iyer,77,Male,Neurology,Dr. Singh,2021-04-26,,,Admitted,Private,April,2021
+PID0386,Nikhil Singh,49,Male,Pediatrics,Dr. Reddy,2023-03-16,,,Under Observation,Corporate,March,2023
+PID0387,Nisha Rao,23,Female,Neurology,Dr. Singh,2021-02-08,2021-02-14,6,Discharged,Corporate,February,2021
+PID0388,Anand Nair,65,Male,General Medicine,Dr. Reddy,2022-12-09,,,Admitted,Private,December,2022
+PID0389,Meena Reddy,17,Female,Oncology,Dr. Patel,2021-10-15,,,Under Observation,Government,October,2021
+PID0390,Pooja Nair,16,Female,Orthopedics,Dr. Kumar,2021-10-03,2021-10-17,14,Discharged,Government,October,2021
+PID0391,Pooja Nair,25,Female,Cardiology,Dr. Reddy,2023-04-21,2023-04-23,2,Discharged,Corporate,April,2023
+PID0392,Deepak Kumar,30,Male,Oncology,Dr. Sharma,2021-06-27,,,Under Observation,Government,June,2021
+PID0393,Kiran Kumar,64,Male,Neurology,Dr. Kumar,2022-01-05,2022-01-12,7,Discharged,Private,January,2022
+PID0394,Suresh Nair,65,Male,Neurology,Dr. Singh,2022-05-16,2022-06-05,20,Discharged,Self-Pay,May,2022
+PID0395,Sunita Reddy,54,Female,Cardiology,Dr. Patel,2023-02-06,2023-02-09,3,Discharged,Government,February,2023
+PID0396,Suresh Sharma,7,Male,Oncology,Dr. Iyer,2021-10-03,2021-10-24,21,Discharged,Private,October,2021
+PID0397,Sunita Patel,82,Female,Oncology,Dr. Reddy,2022-09-08,2022-09-09,1,Discharged,Self-Pay,September,2022
+PID0398,Rekha Nair,43,Female,Emergency,Dr. Singh,2022-04-16,2022-04-25,9,Discharged,Corporate,April,2022
+PID0399,Rahul Nair,41,Male,General Medicine,Dr. Nair,2022-07-29,2022-08-19,21,Discharged,Private,July,2022
+PID0400,Anita Nair,40,Female,General Medicine,Dr. Nair,2021-10-11,2021-11-01,21,Discharged,Self-Pay,October,2021
+PID0401,Vikram Sharma,45,Male,Emergency,Dr. Patel,2021-02-28,2021-03-20,20,Discharged,Private,February,2021
+PID0402,Meena Reddy,9,Female,Neurology,Dr. Nair,2022-03-05,2022-03-18,13,Discharged,Government,March,2022
+PID0403,Kavitha Rao,26,Female,Oncology,Dr. Nair,2022-11-19,2022-12-01,12,Discharged,Government,November,2022
+PID0404,Anita Rao,76,Female,Oncology,Dr. Patel,2021-05-12,2021-05-21,9,Discharged,Self-Pay,May,2021
+PID0405,Suresh Nair,47,Male,General Medicine,Dr. Reddy,2021-08-17,2021-08-27,10,Discharged,Self-Pay,August,2021
+PID0406,Anita Rao,84,Female,Cardiology,Dr. Kumar,2021-02-24,2021-03-17,21,Discharged,Government,February,2021
+PID0407,Anand Reddy,24,Male,Orthopedics,Dr. Patel,2022-02-28,,,Under Observation,Self-Pay,February,2022
+PID0408,Nisha Rao,28,Female,Oncology,Dr. Sharma,2021-05-27,,,Under Observation,Corporate,May,2021
+PID0409,Sunita Nair,40,Female,Orthopedics,Dr. Iyer,2022-10-12,,,Admitted,Government,October,2022
+PID0410,Kiran Singh,59,Male,Pediatrics,Dr. Kumar,2021-05-13,2021-06-02,20,Discharged,Corporate,May,2021
+PID0411,Priya Kumar,6,Female,General Medicine,Dr. Iyer,2022-07-01,2022-07-08,7,Discharged,Government,July,2022
+PID0412,Rahul Sharma,18,Male,Pediatrics,Dr. Singh,2021-08-20,2021-09-01,12,Discharged,Self-Pay,August,2021
+PID0413,Arjun Kumar,71,Male,Neurology,Dr. Singh,2021-11-02,2021-11-12,10,Discharged,Self-Pay,November,2021
+PID0414,Sunita Nair,26,Female,Oncology,Dr. Kumar,2022-05-17,2022-05-29,12,Discharged,Private,May,2022
+PID0415,Suresh Patel,26,Male,Cardiology,Dr. Reddy,2021-08-05,2021-08-06,1,Discharged,Private,August,2021
+PID0416,Meena Kumar,7,Female,Cardiology,Dr. Nair,2022-09-01,2022-09-03,2,Discharged,Private,September,2022
+PID0417,Pooja Iyer,24,Female,Orthopedics,Dr. Nair,2021-05-07,2021-05-25,18,Discharged,Private,May,2021
+PID0418,Rekha Singh,82,Female,Emergency,Dr. Patel,2022-11-10,2022-11-27,17,Discharged,Corporate,November,2022
+PID0419,Deepak Singh,68,Male,Orthopedics,Dr. Singh,2021-10-17,2021-10-21,4,Discharged,Government,October,2021
+PID0420,Divya Sharma,10,Female,Neurology,Dr. Kumar,2022-01-02,2022-01-16,14,Discharged,Government,January,2022
+PID0421,Latha Sharma,19,Female,Oncology,Dr. Singh,2021-01-03,2021-01-04,1,Discharged,Corporate,January,2021
+PID0422,Arjun Singh,34,Male,Pediatrics,Dr. Reddy,2023-01-11,,,Under Observation,Self-Pay,January,2023
+PID0423,Priya Singh,42,Female,General Medicine,Dr. Iyer,2023-04-13,,,Under Observation,Self-Pay,April,2023
+PID0424,Anita Singh,22,Female,Emergency,Dr. Nair,2023-02-16,,,Admitted,Government,February,2023
+PID0425,Latha Rao,16,Female,General Medicine,Dr. Iyer,2022-09-29,,,Under Observation,Self-Pay,September,2022
+PID0426,Arjun Iyer,54,Male,Emergency,Dr. Iyer,2022-02-14,2022-03-01,15,Discharged,Corporate,February,2022
+PID0427,Sunita Singh,25,Female,Cardiology,Dr. Kumar,2021-05-16,,,ICU,Corporate,May,2021
+PID0428,Sunita Iyer,21,Female,Pediatrics,Dr. Kumar,2023-03-09,2023-03-21,12,Discharged,Private,March,2023
+PID0429,Pooja Kumar,6,Female,Emergency,Dr. Iyer,2021-03-06,2021-03-15,9,Discharged,Government,March,2021
+PID0430,Divya Singh,54,Female,Orthopedics,Dr. Iyer,2022-03-20,2022-03-28,8,Discharged,Private,March,2022
+PID0431,Vikram Rao,67,Male,General Medicine,Dr. Patel,2022-05-23,,,Admitted,Self-Pay,May,2022
+PID0432,Priya Sharma,35,Female,Cardiology,Dr. Kumar,2022-07-18,2022-08-08,21,Discharged,Corporate,July,2022
+PID0433,Anita Rao,68,Female,Emergency,Dr. Nair,2022-04-03,,,Admitted,Private,April,2022
+PID0434,Anand Iyer,16,Male,Oncology,Dr. Singh,2021-02-06,2021-02-24,18,Discharged,Self-Pay,February,2021
+PID0435,Kiran Nair,63,Male,General Medicine,Dr. Singh,2022-01-08,,,Under Observation,Corporate,January,2022
+PID0436,Pooja Singh,50,Female,Oncology,Dr. Nair,2021-04-10,,,Admitted,Self-Pay,April,2021
+PID0437,Anita Kumar,57,Female,Cardiology,Dr. Reddy,2021-06-18,,,Admitted,Government,June,2021
+PID0438,Arjun Iyer,29,Male,Emergency,Dr. Reddy,2021-08-09,,,Under Observation,Private,August,2021
+PID0439,Priya Singh,80,Female,Neurology,Dr. Patel,2023-03-02,2023-03-17,15,Discharged,Corporate,March,2023
+PID0440,Deepak Kumar,66,Male,Neurology,Dr. Iyer,2022-07-21,,,Under Observation,Government,July,2022
+PID0441,Vikram Singh,46,Male,Neurology,Dr. Kumar,2022-02-01,2022-02-21,20,Discharged,Corporate,February,2022
+PID0442,Mohan Iyer,22,Male,Orthopedics,Dr. Kumar,2021-12-18,2021-12-28,10,Discharged,Self-Pay,December,2021
+PID0443,Divya Sharma,42,Female,Emergency,Dr. Reddy,2021-07-25,2021-08-01,7,Discharged,Government,July,2021
+PID0444,Deepak Nair,76,Male,Pediatrics,Dr. Singh,2022-12-29,2023-01-02,4,Discharged,Corporate,December,2022
+PID0445,Rekha Kumar,23,Female,Cardiology,Dr. Nair,2022-06-20,,,Admitted,Private,June,2022
+PID0446,Mohan Patel,12,Male,Emergency,Dr. Iyer,2021-10-21,,,Admitted,Self-Pay,October,2021
+PID0447,Deepak Kumar,76,Male,Oncology,Dr. Patel,2022-01-03,,,Admitted,Corporate,January,2022
+PID0448,Deepak Reddy,54,Male,Pediatrics,Dr. Iyer,2022-12-11,,,Under Observation,Self-Pay,December,2022
+PID0449,Rahul Reddy,61,Male,Oncology,Dr. Patel,2021-07-27,,,Under Observation,Self-Pay,July,2021
+PID0450,Suresh Reddy,14,Male,Orthopedics,Dr. Patel,2022-04-05,,,ICU,Private,April,2022
+PID0451,Priya Iyer,25,Female,Neurology,Dr. Iyer,2021-10-13,2021-10-31,18,Discharged,Self-Pay,October,2021
+PID0452,Ravi Rao,46,Male,Neurology,Dr. Sharma,2022-12-28,,,Admitted,Self-Pay,December,2022
+PID0453,Nisha Nair,28,Female,Neurology,Dr. Sharma,2021-03-16,2021-03-27,11,Discharged,Government,March,2021
+PID0454,Divya Iyer,32,Female,Emergency,Dr. Reddy,2021-04-05,2021-04-17,12,Discharged,Self-Pay,April,2021
+PID0455,Meena Sharma,76,Female,Oncology,Dr. Iyer,2023-02-10,2023-03-02,20,Discharged,Private,February,2023
+PID0456,Ravi Rao,84,Male,Orthopedics,Dr. Sharma,2021-09-04,2021-09-25,21,Discharged,Self-Pay,September,2021
+PID0457,Anita Iyer,8,Female,Neurology,Dr. Iyer,2021-09-20,2021-10-08,18,Discharged,Self-Pay,September,2021
+PID0458,Pooja Kumar,70,Female,Cardiology,Dr. Sharma,2021-10-31,,,Admitted,Government,October,2021
+PID0459,Arjun Sharma,59,Male,Oncology,Dr. Sharma,2022-11-18,2022-12-09,21,Discharged,Government,November,2022
+PID0460,Anita Patel,9,Female,Cardiology,Dr. Sharma,2021-01-25,2021-02-09,15,Discharged,Private,January,2021
+PID0461,Mohan Singh,57,Male,Pediatrics,Dr. Kumar,2022-08-12,,,Under Observation,Corporate,August,2022
+PID0462,Latha Kumar,84,Female,Cardiology,Dr. Iyer,2022-02-03,2022-02-07,4,Discharged,Private,February,2022
+PID0463,Ravi Singh,41,Male,Oncology,Dr. Kumar,2021-10-24,2021-11-03,10,Discharged,Corporate,October,2021
+PID0464,Priya Rao,55,Female,Oncology,Dr. Iyer,2021-06-10,2021-06-28,18,Discharged,Self-Pay,June,2021
+PID0465,Mohan Nair,23,Male,Cardiology,Dr. Sharma,2021-01-12,,,Under Observation,Private,January,2021
+PID0466,Divya Singh,49,Female,Orthopedics,Dr. Kumar,2021-11-09,2021-11-16,7,Discharged,Government,November,2021
+PID0467,Vikram Sharma,28,Male,Emergency,Dr. Iyer,2022-09-24,,,Admitted,Private,September,2022
+PID0468,Divya Singh,30,Female,Emergency,Dr. Singh,2021-10-25,2021-10-28,3,Discharged,Corporate,October,2021
+PID0469,Latha Patel,41,Female,Neurology,Dr. Sharma,2022-11-19,2022-12-10,21,Discharged,Government,November,2022
+PID0470,Pooja Rao,79,Female,Orthopedics,Dr. Singh,2021-12-03,2021-12-23,20,Discharged,Self-Pay,December,2021
+PID0471,Rekha Patel,33,Female,Emergency,Dr. Nair,2021-01-05,2021-01-16,11,Discharged,Corporate,January,2021
+PID0472,Latha Patel,64,Female,Pediatrics,Dr. Reddy,2022-11-27,,,Under Observation,Self-Pay,November,2022
+PID0473,Divya Singh,40,Female,Oncology,Dr. Iyer,2021-06-29,2021-07-20,21,Discharged,Government,June,2021
+PID0474,Mohan Singh,69,Male,Emergency,Dr. Sharma,2023-01-15,,,Under Observation,Corporate,January,2023
+PID0475,Rahul Reddy,24,Male,General Medicine,Dr. Kumar,2022-07-11,2022-07-29,18,Discharged,Government,July,2022
+PID0476,Sunita Rao,51,Female,Neurology,Dr. Sharma,2022-05-29,,,Admitted,Government,May,2022
+PID0477,Deepak Patel,77,Male,Emergency,Dr. Iyer,2022-04-02,,,Admitted,Government,April,2022
+PID0478,Latha Kumar,38,Female,General Medicine,Dr. Patel,2021-08-13,2021-08-29,16,Discharged,Private,August,2021
+PID0479,Deepak Nair,10,Male,Cardiology,Dr. Nair,2022-02-02,,,Under Observation,Self-Pay,February,2022
+PID0480,Deepak Reddy,77,Male,Orthopedics,Dr. Kumar,2023-01-30,2023-02-08,9,Discharged,Corporate,January,2023
+PID0481,Nisha Singh,33,Female,Neurology,Dr. Kumar,2022-06-14,2022-06-23,9,Discharged,Self-Pay,June,2022
+PID0482,Pooja Rao,22,Female,Pediatrics,Dr. Patel,2022-09-11,2022-09-12,1,Discharged,Government,September,2022
+PID0483,Deepak Reddy,51,Male,Neurology,Dr. Nair,2021-08-05,,,Admitted,Private,August,2021
+PID0484,Anand Nair,66,Male,Pediatrics,Dr. Patel,2023-01-08,2023-01-12,4,Discharged,Government,January,2023
+PID0485,Priya Sharma,25,Female,Orthopedics,Dr. Nair,2021-02-14,2021-02-19,5,Discharged,Private,February,2021
+PID0486,Rahul Patel,56,Male,Neurology,Dr. Singh,2021-09-22,2021-09-28,6,Discharged,Private,September,2021
+PID0487,Anita Sharma,66,Female,Orthopedics,Dr. Patel,2022-04-05,,,ICU,Corporate,April,2022
+PID0488,Nikhil Patel,48,Male,Pediatrics,Dr. Singh,2022-10-01,2022-10-18,17,Discharged,Private,October,2022
+PID0489,Anand Iyer,71,Male,Oncology,Dr. Singh,2021-05-16,,,Admitted,Corporate,May,2021
+PID0490,Nikhil Singh,81,Male,Cardiology,Dr. Iyer,2021-07-01,,,Under Observation,Private,July,2021
+PID0491,Kiran Patel,60,Male,Neurology,Dr. Kumar,2022-09-10,,,Under Observation,Self-Pay,September,2022
+PID0492,Deepak Iyer,53,Male,General Medicine,Dr. Singh,2021-08-23,2021-09-08,16,Discharged,Private,August,2021
+PID0493,Sunita Reddy,15,Female,General Medicine,Dr. Singh,2022-05-04,,,Under Observation,Corporate,May,2022
+PID0494,Kavitha Kumar,20,Female,Neurology,Dr. Sharma,2022-12-28,2022-12-29,1,Discharged,Corporate,December,2022
+PID0495,Ravi Iyer,79,Male,General Medicine,Dr. Reddy,2022-01-06,,,Admitted,Corporate,January,2022
+PID0496,Nisha Reddy,57,Female,Neurology,Dr. Iyer,2022-11-28,2022-12-11,13,Discharged,Corporate,November,2022
+PID0497,Ravi Rao,55,Male,Emergency,Dr. Patel,2021-09-17,2021-09-27,10,Discharged,Private,September,2021
+PID0498,Kiran Patel,48,Male,Oncology,Dr. Singh,2021-04-13,2021-04-20,7,Discharged,Private,April,2021
+PID0499,Anand Kumar,65,Male,Neurology,Dr. Kumar,2023-04-04,,,Under Observation,Private,April,2023
+PID0500,Mohan Sharma,54,Male,Pediatrics,Dr. Singh,2022-01-15,2022-01-18,3,Discharged,Self-Pay,January,2022
