@@ -1,4 +1,4 @@
-# Hospital Operations Analytics Dashboard (Power BI)
+# Patient Records and Revenue Analytics Dashboard (Power BI)
 
 ## Power BI Portfolio Project | Healthcare Analytics
 
